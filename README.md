@@ -8,7 +8,7 @@
 ### 📱 Connect with me:
 
 [<img align="left" alt="@timaoneji | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/timaoneji/)
-[<img align="left" alt="@tim.kamilov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />](https://www.instagram.com/akram_baratov/)
+[<img align="left" alt="@tim.kamilov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />](https://www.instagram.com/tim.kamilov/)
 
 <br />
 
