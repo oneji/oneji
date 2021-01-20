@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Tim! 🦦
+# Hello there 👋, I'm Tim!
 
 - 🤓 I'm Full-stack web developer
 - 💬 Let's talk about Software Architecture, JavaScript, Development Patterns, Frontend and Backend 
