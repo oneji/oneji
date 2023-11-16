@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Tim!
 
-- 🤓 I'm Full-stack web developer
-- 💬 Let's talk about Software Architecture, JavaScript, Development Patterns, Frontend and Backend 
+- 🤓 I'm Frontend developer
+- 💬 Let's talk about Software Architecture, JavaScript, Development Patterns and Frontend 
 - 🏆 Programming as a lifestyle.
 - Originally from **Dushanbe**
 
@@ -15,16 +15,17 @@
 ### 🛠 Language and Tools:
 <img align="left" alt="VueJS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="ReactJS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-<img align="left" alt="Laravel" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" />
 <img align="left" alt="NodeJS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="NodeJS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="NodeJS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+<img align="left" alt="NPM" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="Sass" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 <img align="left" alt="VS Code" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="HTML" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="JS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="PHP" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
 <img align="left" alt="GIT" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="Docker" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Jest" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
 
 <br />
 
